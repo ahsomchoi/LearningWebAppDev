@@ -1,0 +1,27 @@
+* {
+	margin: 30;
+	padding: 20;
+	background-color: #e6e6e6;
+}
+
+h1 {
+	color: red;
+	margin: 10px;
+}
+
+h2 {
+	color: purple;
+}
+
+p {
+	color: grey;
+}
+
+ul {
+	color: grey;
+}
+
+a {
+	color: blue;
+}
+
